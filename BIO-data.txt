@@ -1,0 +1,7 @@
+Name
+Age
+Address
+Date of Birth
+Contact
+Mobile No
+Mail ID

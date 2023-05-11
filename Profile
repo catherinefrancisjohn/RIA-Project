@@ -1,2 +1,6 @@
+
 Address
 Mail
+Name
+Age
+

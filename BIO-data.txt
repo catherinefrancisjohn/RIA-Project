@@ -13,12 +13,3 @@ Expected CTC
 Name
 Age
 Address
-Date of Birth
-Contact
-Mobile No
-Mail ID
-Salary
-Exp
-CTC
-Notice Period
-Expected CTC
